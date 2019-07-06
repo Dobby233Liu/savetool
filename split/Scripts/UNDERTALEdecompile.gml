@@ -1,3 +1,4 @@
+if (file_exists("undertale_save0.ini")) file_delete("undertale_save0.ini")
 myfileid= ini_open("undertale_save0.ini")
 originalf = file_text_open_read("file0")
 ini_write_string("Player", "Name", file_text_read_string(originalf))

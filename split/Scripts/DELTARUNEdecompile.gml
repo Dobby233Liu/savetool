@@ -1,3 +1,4 @@
+if (file_exists("deltarunech1_save.ini")) file_delete("deltarunech1_save.ini")
 myfileid= ini_open("deltarunech1_save.ini")
 originalf = file_text_open_read("filech1")
 ini_write_string("Vessel", "Name", file_text_read_string(originalf))
