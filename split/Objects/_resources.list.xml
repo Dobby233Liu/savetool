@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="object_SavePointBackground" type="RESOURCE"/>
+  <resource name="modeSelect1" type="RESOURCE"/>
+  <resource name="gameSelect1" type="RESOURCE"/>
+  <resource name="processingShit" type="RESOURCE"/>
+</resources>

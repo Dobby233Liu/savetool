@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="modeSelectRoom" type="RESOURCE"/>
+  <resource name="gameSelectRoom" type="RESOURCE"/>
+  <resource name="processRoom" type="RESOURCE"/>
+</resources>

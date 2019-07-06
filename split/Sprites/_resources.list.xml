@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="sprite_SavePoint" type="RESOURCE"/>
+  <resource name="modeSctDmySpr" type="RESOURCE"/>
+  <resource name="gameDmySpr" type="RESOURCE"/>
+  <resource name="processing" type="RESOURCE"/>
+</resources>
