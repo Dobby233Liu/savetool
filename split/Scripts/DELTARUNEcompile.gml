@@ -8,7 +8,7 @@ while(true)
     if (self.i < 6)
     {
         file_text_write_string(myfileid,ini_read_string("Vessel", "OtherName"+string(i), ""))
-        file_text_writeln(self.originalf)
+        file_text_writeln(myfileid)
         self.i = (self.i + 1)
         continue
     }
