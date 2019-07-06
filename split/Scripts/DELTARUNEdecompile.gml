@@ -167,7 +167,7 @@ while(true)
 self.i = 0
 while(true)
 {
-    if (self.i < 9999)
+    if (self.i < 913)
     {
         ini_write_real("Flags", "Flag"+string(i), file_text_read_real(originalf))
         file_text_readln(originalf)
