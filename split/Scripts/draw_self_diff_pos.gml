@@ -8,4 +8,5 @@ draw_sprite_ext(
     obj.image_xscale, obj.image_yscale,
     obj.image_angle,
     obj.image_blend,
-    obj.image_alpha)
+    obj.image_alpha
+)
