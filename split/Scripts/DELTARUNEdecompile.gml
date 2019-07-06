@@ -124,9 +124,9 @@ while(true)
     }
     break
 }
-ini_write_real("THE_DARK", "Tension", file_text_read_real(originalf))
+ini_write_real("THE_DARK", "TP", file_text_read_real(originalf))
 file_text_readln(originalf)
-ini_write_real("THE_DARK", "MaxTension", file_text_read_real(originalf))
+ini_write_real("THE_DARK", "MaxTP", file_text_read_real(originalf))
 file_text_readln(originalf)
 ini_write_real("TheReturn", "Weapon", file_text_read_real(originalf))
 file_text_readln(originalf)
